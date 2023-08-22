@@ -1,0 +1,10 @@
+AUGUST 17, 2023
+
+1) Found Manim and found out matplotlib (python library) could be used to make math animations
+
+Next tasks:
+1) Recursion animation for the print(2); recurse() recipe.
+
+2) Understand Floyd’s tortoise and hare algorithm along with the other solutions for “Find the duplicate number”.
+
+3) Explore manim/matplotlib

@@ -1,0 +1,25 @@
+AUGUST 15, 2023
+
+1) Can synfig make the animations we intend to make? Let’s check that from today onwards.
+
+https://www.youtube.com/playlist?list=PLJ1s8hm5LwbTlUt_kOmQ04hK5uaCgpCh7
+
+Seems the answer is “Yes” 🙂. Checked out the first video from this playlist below.
+
+https://www.youtube.com/playlist?list=PLIdh5o10U8UQzkAhXV57r8CDnQqB4gSlX
+
+Also discovered Krita today. Maybe something good. It has the ability to create all shapes.
+
+Maybe we can create images and import into Synfig. Use both of them in combination.
+
+Krita Video: https://www.youtube.com/watch?v=oXMCmiT_wxA
+
+The solution to https://leetcode.com/problems/find-the-duplicate-number/editorial/ was not following the constraints given in the problem. Checked out the first 3 solutions from the editorial.
+
+Need to the check the other ones. Especially, Floyd’s tortoise and hare algorithm one.
+
+Next tasks:
+
+1) Recursion animation for the print(2); recurse() recipe.
+
+2) Understand Floyd’s tortoise and hare algorithm along with the other solutions for “Find the duplicate number”.
